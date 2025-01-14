@@ -1,6 +1,6 @@
 
 **Name:** John Gardner  
-**Date:** 06/01/2025
+**Date:** 06/01/2025  
 **Project:** Resume Website
 
 
